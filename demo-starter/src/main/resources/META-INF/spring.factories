@@ -1,3 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
   com.example.demostarter.config.AWSProperties,\
-  com.example.demostarter.client.AwsClient
+  com.example.demostarter.client.AwsClient,\
+  com.example.demostarter.config.CommonConfig
